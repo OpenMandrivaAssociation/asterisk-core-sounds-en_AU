@@ -74,3 +74,20 @@ rm -rf %{buildroot}
 %files -f %{name}.filelist
 %defattr(-,root, root)
 %doc *-asterisk-core-*-%{version}
+
+
+%changelog
+* Fri Jul 27 2012 Lonyai Gergely <aleph@mandriva.org> 1.4.22-1mdv2012.0
++ Revision: 811210
+- 1.4.22
+
+* Fri Jun 03 2011 Lonyai Gergely <aleph@mandriva.org> 1.4.21-1
++ Revision: 682573
+- 1.4.21
+
+* Fri Oct 22 2010 Lonyai Gergely <aleph@mandriva.org> 1.4.20-1mdv2011.0
++ Revision: 587282
+- 1.4.20
+  initial version from asterisk-core-sounds-fr
+- create asterisk-core-sounds-en_AU
+

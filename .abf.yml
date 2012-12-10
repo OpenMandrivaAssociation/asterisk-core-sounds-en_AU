@@ -1,10 +1,10 @@
 sources:
-  "asterisk-core-sounds-en_AU-alaw-1.4.22.tar.gz:"	77680aa9c0cc26e18bdfd39a1c6429c2d5649ee2
-  "asterisk-core-sounds-en_AU-g722-1.4.22.tar.gz:"	446ddd2fbaa17bdfc21d2e53b5dae00a789563df
-  "asterisk-core-sounds-en_AU-g729-1.4.22.tar.gz:"	965e99e7126f12d9d2bbae6f1987a3dec5bc545b
-  "asterisk-core-sounds-en_AU-gsm-1.4.22.tar.gz:"	37e6edc95729d272944d503406af8cc298dd6875
-  "asterisk-core-sounds-en_AU-siren14-1.4.22.tar.gz:"	9791636682e1faa35fd32bec7bb82297295a43b9
-  "asterisk-core-sounds-en_AU-siren7-1.4.22.tar.gz:"	a9198ededb297fd913d670038e48d9263d144ad0
-  "asterisk-core-sounds-en_AU-sln16-1.4.22.tar.gz:"	ec4cf85f8d51fa20a7ea6d46e504ffc2a2edff48
-  "asterisk-core-sounds-en_AU-ulaw-1.4.22.tar.gz:"	4655fbb488226ec5f2d2e731843c1192903365a7
-  "asterisk-core-sounds-en_AU-wav-1.4.22.tar.gz:"	6cd4bcd5ce14ed421b46f87c94678a13d172f40a
+  "asterisk-core-sounds-en_AU-alaw-1.4.22.tar.gz": 77680aa9c0cc26e18bdfd39a1c6429c2d5649ee2
+  "asterisk-core-sounds-en_AU-g722-1.4.22.tar.gz": 446ddd2fbaa17bdfc21d2e53b5dae00a789563df
+  "asterisk-core-sounds-en_AU-g729-1.4.22.tar.gz": 965e99e7126f12d9d2bbae6f1987a3dec5bc545b
+  "asterisk-core-sounds-en_AU-gsm-1.4.22.tar.gz": 37e6edc95729d272944d503406af8cc298dd6875
+  "asterisk-core-sounds-en_AU-siren14-1.4.22.tar.gz": 9791636682e1faa35fd32bec7bb82297295a43b9
+  "asterisk-core-sounds-en_AU-siren7-1.4.22.tar.gz": a9198ededb297fd913d670038e48d9263d144ad0
+  "asterisk-core-sounds-en_AU-sln16-1.4.22.tar.gz": ec4cf85f8d51fa20a7ea6d46e504ffc2a2edff48
+  "asterisk-core-sounds-en_AU-ulaw-1.4.22.tar.gz": 4655fbb488226ec5f2d2e731843c1192903365a7
+  "asterisk-core-sounds-en_AU-wav-1.4.22.tar.gz": 6cd4bcd5ce14ed421b46f87c94678a13d172f40a
